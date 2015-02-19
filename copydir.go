@@ -2,6 +2,7 @@ package main
 
  import (
    "github.com/cheggaaa/pb"
+   "github.com/olekukonko/ts"
    "os"
    "flag"
    "fmt"
